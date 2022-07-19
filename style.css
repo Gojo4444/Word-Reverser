@@ -10,8 +10,8 @@ section{
 }
 
 .container{
-    width:300px;
-    height:300px;
+    width: 400px;
+    height:400px;
     background-color:white;
     border-radius: 10%;
     padding-left: 20px;
@@ -44,6 +44,8 @@ section{
     padding-left: 5px;
     background-color: transparent;
     color:  #206592;
+    width:70%;
+    font-size: 20px;
 }
 #RW{
     text-align: center;
@@ -54,4 +56,5 @@ section{
 }
 .btn:active{
     background-color: darkgoldenrod;
+    color:white;
 }
