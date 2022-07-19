@@ -54,4 +54,5 @@ section{
 }
 .btn:active{
     background-color: darkgoldenrod;
+    color:white;
 }
